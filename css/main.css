@@ -1,0 +1,24 @@
+body{
+	background-color:#EEEEEE;
+	color:#515151; 
+	font-size: 1em;
+}
+
+a:visited, a:link, a:active{
+	color:#515151; 
+}
+
+.btn {
+	width:90%;
+    font-weight:900;
+    background: #00B4FF;;
+    background-image: -webkit-linear-gradient(top, #00B4FF, #113e5c);
+    background-image: -moz-linear-gradient(top, #00B4FF, #113e5c);
+    background-image: -ms-linear-gradient(top, #00B4FF, #113e5c);
+    background-image: -o-linear-gradient(top, #00B4FF, #113e5c);
+    background-image: linear-gradient(to bottom, #00B4FF, #113e5c);
+    border-radius: 2em;
+    color: #EEEEEE;
+    padding: .5em .5em .5em .5em;
+    text-decoration: none;
+}

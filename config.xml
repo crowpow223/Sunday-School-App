@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		id        = "com.phonegap.helloworld"
+		version   = "0.11.27">
+
+
+	<name>aa Sunday School</name>
+	<description>A community based app designed to help user teach and prepare for Sunday School.</description>
+	<author href="http://phonegap.com" email="jayweston@aol.com">Jay Weston</author>
+
+
+	<gap:platform name="android" />
+	<preference name="permissions" value="none"/>
+
+
+    <!-- Core plugins -->
+	<gap:plugin name="org.apache.cordova.device" />
+	<gap:plugin name="org.apache.cordova.dialogs" />
+	<gap:plugin name="org.apache.cordova.splashscreen" />
+
+
+	<!-- Define app icon and splash -->
+	<icon src="img/icon.png" />
+	<gap:splash src="img/splash.png" />
+</widget>

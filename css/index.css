@@ -1,0 +1,7 @@
+.guest-wrapper, .sign_in-wrapper, .create_account-wrapper{
+    text-align:center;
+}
+
+.search-term{
+    width:89%;
+}

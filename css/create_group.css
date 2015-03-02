@@ -1,0 +1,18 @@
+.form-wrapper, .add_ward_continent-wrapper, h3{
+    text-align:center;
+}
+
+.search-term{
+    width:89%;
+	margin-bottom:.5em;
+}
+
+.description-term{
+    width:89%;
+	line-height: 6em;
+	margin-bottom:.5em;
+}
+
+.radio{
+	margin-bottom:1em;
+}
