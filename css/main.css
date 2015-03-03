@@ -24,7 +24,7 @@ a:visited, a:link, a:active{
 }
 
 .modal_home-wrapper{
-	padding-top:1em;
+	padding-top:2em;
 	background: #000000;
 	width: 50%;
 	height: 100%;
@@ -33,19 +33,19 @@ a:visited, a:link, a:active{
 }
 
 .box-shadow-menu {
-  position: relative;
-  padding-left: 1.25em;
+	position: relative;
+	padding-left: 1.25em;
 }
 
 .box-shadow-menu:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.25em;
-  width: 1em;
-  height: 0.15em;
-  background: black;
-  box-shadow: 
-    0 0.25em 0 0 black,
-    0 0.5em 0 0 black;
+	text-align:center;
+	content: "Menu";
+	position: absolute;
+	left: 0.0em;
+	top: 0.0em;
+	width: 3em;
+	height: 1.5em;
+	background: #00B4FF;
+	padding-top:.25em;
+	z-index:999;
 }
