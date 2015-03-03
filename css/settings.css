@@ -1,0 +1,16 @@
+.content-wrapper{
+    text-align:center;
+}
+
+.text_box{
+	width:89%;
+}
+
+.header_text{
+	font-weight:900;
+	font-size:1.25em;
+}
+
+.reset_password-wrapper{
+	margin-top:1em;
+}

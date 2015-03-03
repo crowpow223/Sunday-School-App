@@ -1,0 +1,64 @@
+.add_ward_continent-wrapper{
+	    text-align:center;
+}
+
+.question, .single_awnser{
+	border: .125em solid #00B4FF;
+}
+
+.sub2{
+	margin-left:1em;
+}
+
+.sub3{
+	margin-left:2em;
+}
+
+.name{
+	font-weight:900;
+}
+
+.add{
+	font-size: 1.25em;
+	font-weight:900;
+	border: .15em solid red;
+	border-radius: 3em;	
+	padding-right:.25em;
+	padding-left:.25em;
+	color:red;
+}
+
+.question_text{
+	line-height:10em;
+	width:89%;
+	border: .125em solid #00B4FF;
+	border-radius: 1em;	
+}
+
+.transpentent_background{
+	background-color: #000000;
+    opacity: 0.2;
+}
+
+.modal_question-wrapper{
+	border: .125em solid #00B4FF;
+	border-radius: 1em;	
+	text-align:center;
+	width: 75%;
+	position:fixed;
+	top:25%;
+	left:10%;
+	background: black;
+	z-index: 999;
+}
+
+.minus{
+	font-size: 1.25em;
+	font-weight:900;
+	border: .15em solid red;
+	border-radius: 3em;	
+	padding-right:.4em;
+	padding-left:.4em;
+	color:red;
+	float:right;
+}
