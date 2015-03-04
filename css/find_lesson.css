@@ -1,0 +1,12 @@
+.content{
+	margin-top:2em;
+	text-align:center;
+}
+
+.search-term{
+	width:87%;
+}
+
+.add_ward_continent-wrapper, .search-term, .test-button{
+	padding-bottom:.5em;
+}

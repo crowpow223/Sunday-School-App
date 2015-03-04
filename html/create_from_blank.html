@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../css/main.css">
+		<link rel="stylesheet" type="text/css" href="../css/create_from_blank.css">
+		<script src="../js/jquery-2.1.3.min.js"></script>
+		<script src="../js/main.js"></script>
+		<script src="../js/create_from_blank.js"></script>
+	</head>
+	<body>
+		<a onclick="show_menu()" href="javascript:void(0);" class="box-shadow-menu"></a>
+		<div class="modal_home-wrapper"></div>
+		<div class="modal_question-wrapper">
+			<span class="minus">-</span>
+			<br/><br/>
+			<input type="text" value="" placeholder="Title" class="question_text">
+			<input type="submit" value="Choose Module" onclick="addModule()" class="test-button btn">
+			<br/><br/><br/>
+		</div>
+		<div class="modal_module-wrapper">
+			<span class="minus">-</span>
+			<br/><br/>
+			Quote
+			<input type="submit" value="John 3:2" onclick="john32()" class="test-button btn padding">
+			Scripture
+			<input type="submit" value="Overcome Discouragement" onclick="overcome_discouragement()" class="test-button btn padding">
+			Question
+			<input type="submit" value="Born Again" onclick="born_again()" class="test-button btn padding">
+			<br/><br/><br/>
+		</div>
+		<div class="content">
+			<div class="back_button-wrapper">
+				<input type="submit" value="Back" onclick="goBack()" class="test-button btn">
+			</div>
+			<div class="add_section-wrapper">
+				<input type="submit" value="Add Section" onclick="addSection()" class="test-button btn">
+			</div>
+			<div class="section-wrapper" id="john32">
+				<span class="type">Scripture</span><br/>
+				<span class="title">John 3:2</span>
+			</div>
+			<div class="section-wrapper" id="overcome_discouragement">
+				<span class="type">Question</span><br/>
+				<span class="title">Overcome discouragement</span>
+			</div>
+			<div class="section-wrapper" id="born_again">
+				<span class="type">Quote</span><br/>
+				<span class="title">Born again</span>
+			</div>
+		</div>
+	</body>
+	<footer>
+	</footer>
+</html>
