@@ -1,0 +1,29 @@
+.content{
+	margin-top:2em;
+	text-align:center;
+}
+
+.back_button-wrapper, .section-wrapper{
+	margin-bottom:1em;
+}
+
+.section-wrapper{
+	width:90%;
+	margin-left:5%;
+	text-align:left;
+	border: .125em solid #00B4FF;
+	padding-top:.5em;
+	padding-bottom:.5em;
+}
+
+.type{
+	padding-left:.5em;
+	padding-right:.5em;
+	font-style: italic;
+}
+
+.title{
+	padding-left:.5em;
+	padding-right:.5em;
+	font-weight:900;
+}

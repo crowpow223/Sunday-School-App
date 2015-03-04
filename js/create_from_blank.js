@@ -6,7 +6,8 @@ $( document ).ready(function() {
 	$( "#born_again" ).hide();
 
 	$( ".minus" ).click(function() {
-		$( ".modal_question-wrapper" ).toggle();
+		$( ".modal_question-wrapper" ).hide();
+		$( ".modal_module-wrapper" ).hide();
 		$( ".content" ).toggleClass( "transpentent_background" );
 	});
 });

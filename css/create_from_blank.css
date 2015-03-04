@@ -65,3 +65,9 @@
 .padding{
 	margin-bottom:1em;
 }
+
+.title{
+	font-size: 1.25em;
+	font-weight:900;
+	color:white;
+}
