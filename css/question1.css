@@ -1,9 +1,23 @@
+.content{
+	margin-top:2em;
+}
+
 .add_ward_continent-wrapper{
 	    text-align:center;
 }
 
+.reply{
+	text-decoration: underline;
+	float:right;
+}
+
 .question, .single_awnser{
 	border: .125em solid #00B4FF;
+	margin-bottom: .25em;
+	padding-top:.25em;
+	padding-bottom:.25em;
+	padding-left:.25em;
+	padding-left:.25em;
 }
 
 .sub2{

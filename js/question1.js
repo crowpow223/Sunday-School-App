@@ -5,6 +5,11 @@ $( document ).ready(function() {
 		$( ".modal_question-wrapper" ).toggle();
 		$( ".content" ).toggleClass( "transpentent_background" );
 	});
+
+	$( ".reply" ).click(function() {
+		$( ".modal_question-wrapper" ).toggle();
+		$( ".content" ).toggleClass( "transpentent_background" );
+	});
 	
 	$( ".minus" ).click(function() {
 		$( ".modal_question-wrapper" ).toggle();
