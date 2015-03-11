@@ -1,0 +1,52 @@
+.single_message{
+	margin-top: .5em;
+	width:100%;
+	border-top-style: solid;
+	clear: both;
+}
+
+.left{
+	float:left;
+	width:20%;
+}
+
+.left > img{
+	max-height:3em;
+}
+
+.right{
+	float:right;
+	width: 70%;
+}
+
+.title{
+	text-align:left;
+	width:100%;
+	float:left;
+	font-weight:900;
+	overflow-x: hidden;
+    white-space: nowrap;
+}
+
+.body{
+	text-align:left;
+	width:100%;
+	float:left;
+}
+
+.name{
+	text-align:left;
+	width:100%;
+	float:left;
+	font-weight:900;
+	font-size:2em;
+	overflow-x: hidden;
+    white-space: nowrap;
+}
+.awnser-wrapper{
+		border-top-style: solid;
+	clear: both;
+}
+.question_text{
+	width:88%;
+}
