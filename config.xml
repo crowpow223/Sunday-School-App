@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget xmlns     = "http://jayweston.com"
-		xmlns:gap = "http://sunday-school.com"
-		id        = "com.sunday-school"
+<widget id        = "com.fallingdust"
 		version   = "0.11.27">
 
 
