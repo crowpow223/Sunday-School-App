@@ -1,5 +1,5 @@
 .content{
-	margin-top:2em;
+	margin-top:3em;
 	text-align:center;
 }
 
@@ -22,14 +22,14 @@
 	margin: auto;
 	position: absolute;
 	right: 40%;
-	top: .5em;
+	top: .25em;
 
 }
 
 .right{
 	position: absolute;
 	right: 0.25em;
-	top: 0.5em;
+	top: 0.25em;
 }
 
 .back_button-wrapper, .add_ward_continent-wrapper, .question_text, .input{

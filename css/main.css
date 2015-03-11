@@ -46,6 +46,5 @@ a:visited, a:link, a:active{
 	width: 3em;
 	height: 1.5em;
 	background: #00B4FF;
-	padding-top:.25em;
 	z-index:999;
 }
