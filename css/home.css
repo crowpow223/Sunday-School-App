@@ -4,6 +4,7 @@
 
 .text_box{
 	border: .125em solid #00B4FF;
+	margin-bottom:.25em;
 }
 
 .number{

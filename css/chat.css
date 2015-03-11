@@ -1,0 +1,45 @@
+.add_ward_continent-wrapper{
+	    text-align:center;
+}
+
+.reply{
+	text-decoration: underline;
+	float:right;
+}
+
+.me{
+	border: .125em solid #00B4FF;
+	margin-bottom: .25em;
+	padding-top:.25em;
+	padding-bottom:.25em;
+	padding-left:.25em;
+	padding-left:.25em;
+	width:75%;
+}
+
+.not_me{
+	border: .125em solid #00B4FF;
+	margin-bottom: .25em;
+	position:relative;
+	left:3em;
+	padding-top:.25em;
+	padding-bottom:.25em;
+	padding-left:.25em;
+	padding-left:.25em;
+	width:75%;
+	z-index:0;
+}
+
+.name{
+	font-weight:900;
+}
+
+.chat-wrapper{
+	height: 50%;
+    overflow: auto;
+	overflow-x: hidden;
+}
+
+.question_text{
+	width:88%;
+}

@@ -1,0 +1,42 @@
+.group_options{
+	font-size:2em;
+	text-align:left;
+	text-decoration: underline;
+	margin-left:1.5em;
+}
+
+.back_button-wrapper{
+	margin-bottom:1em;
+}
+
+.group_button{
+	margin-bottom:.25em;
+}
+
+.transpentent_background{
+	background-color: #000000;
+    opacity: 0.2;
+}
+
+.modal_question-wrapper{
+	border: .125em solid #00B4FF;
+	border-radius: 1em;	
+	text-align:center;
+	width: 75%;
+	position:fixed;
+	top:25%;
+	left:10%;
+	background: black;
+	z-index: 999;
+}
+
+.minus{
+	font-size: 1.25em;
+	font-weight:900;
+	border: .15em solid red;
+	border-radius: 3em;	
+	padding-right:.4em;
+	padding-left:.4em;
+	color:red;
+	float:right;
+}

@@ -1,0 +1,80 @@
+
+.top{
+	width:100%;
+}
+
+.section{
+	width:90%;
+	text-align:left;
+	margin-top:1em;
+	margin-bottom:.5em;
+}
+
+.single{
+	
+}
+
+.center{
+	margin: auto;
+	position: absolute;
+	right: 40%;
+	top: .5em;
+
+}
+
+.right{
+	position: absolute;
+	right: 0.25em;
+	top: 0.5em;
+}
+
+.back_button-wrapper, .add_ward_continent-wrapper, .question_text, .input{
+	margin-bottom:1em;
+}
+
+.small-icon{
+	width:1em;
+	padding-right:.5em;
+}
+
+.icon{
+	text-align:left;
+	margin-left:4em;
+}
+
+.title{
+	float:left;
+}
+
+.change_module-wrapper, .change_section-wrapper, .add_module-wrapper{
+	text-align:center;
+	width: 75%;
+	position:fixed;
+	top:25%;
+	left:10%;
+	background: black;
+	z-index:999;
+}
+
+
+
+.minus{
+	font-size: 1.25em;
+	font-weight:900;
+	border: .15em solid red;
+	border-radius: 3em;	
+	padding-right:.4em;
+	padding-left:.4em;
+	color:red;
+	float:right;
+}
+
+.question_text{
+	width:89%;
+	border: .125em solid #00B4FF;	
+}
+
+.transpentent_background{
+	background-color: #000000;
+    opacity: 0.2;
+}
