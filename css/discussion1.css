@@ -7,10 +7,6 @@
 	float:right;
 }
 
-.content{
-	margin-top: 2em;
-}
-
 .question, .single_awnser{
 	border: .125em solid #00B4FF;
 	margin-bottom: .25em;
