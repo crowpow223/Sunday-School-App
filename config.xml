@@ -9,10 +9,10 @@
 
 	<name>aa Sunday School</name>
 	<description>A community based app designed to help user teach and prepare for Sunday School.</description>
-	<author href="http://phonegap.com" email="jayweston@aol.com">Jay Weston</author>
+	<author href="http://phonegap.com" email="njcrowther22@gmail.com">Nathan Crowther</author>
 
 
-	<gap:platform name="android" />
+	<gap:platform name="ios" />
 	<preference name="permissions" value="none"/>
 
 
